@@ -1,0 +1,9 @@
+.showmore-button {
+    cursor: pointer;
+    background-color: #0a0c0b;
+    color: #ccb370;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 5px;
+}
